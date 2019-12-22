@@ -1,0 +1,15 @@
+E:\C#\QLSV_LHP_dotNetEF\QLSV_LHP_dotNetEF\bin\Debug\QLSV_LHP_dotNetEF.exe.config
+E:\C#\QLSV_LHP_dotNetEF\QLSV_LHP_dotNetEF\bin\Debug\QLSV_LHP_dotNetEF.exe
+E:\C#\QLSV_LHP_dotNetEF\QLSV_LHP_dotNetEF\bin\Debug\QLSV_LHP_dotNetEF.pdb
+E:\C#\QLSV_LHP_dotNetEF\QLSV_LHP_dotNetEF\bin\Debug\EntityFramework.dll
+E:\C#\QLSV_LHP_dotNetEF\QLSV_LHP_dotNetEF\bin\Debug\EntityFramework.SqlServer.dll
+E:\C#\QLSV_LHP_dotNetEF\QLSV_LHP_dotNetEF\bin\Debug\EntityFramework.xml
+E:\C#\QLSV_LHP_dotNetEF\QLSV_LHP_dotNetEF\bin\Debug\EntityFramework.SqlServer.xml
+E:\C#\QLSV_LHP_dotNetEF\QLSV_LHP_dotNetEF\obj\Debug\QLSV_LHP_dotNetEF.csprojAssemblyReference.cache
+E:\C#\QLSV_LHP_dotNetEF\QLSV_LHP_dotNetEF\obj\Debug\QLSV_LHP_dotNetEF.Form1.resources
+E:\C#\QLSV_LHP_dotNetEF\QLSV_LHP_dotNetEF\obj\Debug\QLSV_LHP_dotNetEF.Properties.Resources.resources
+E:\C#\QLSV_LHP_dotNetEF\QLSV_LHP_dotNetEF\obj\Debug\QLSV_LHP_dotNetEF.csproj.GenerateResource.cache
+E:\C#\QLSV_LHP_dotNetEF\QLSV_LHP_dotNetEF\obj\Debug\QLSV_LHP_dotNetEF.csproj.CopyComplete
+E:\C#\QLSV_LHP_dotNetEF\QLSV_LHP_dotNetEF\obj\Debug\QLSV_LHP_dotNetEF.exe
+E:\C#\QLSV_LHP_dotNetEF\QLSV_LHP_dotNetEF\obj\Debug\QLSV_LHP_dotNetEF.pdb
+E:\C#\QLSV_LHP_dotNetEF\QLSV_LHP_dotNetEF\obj\Debug\QLSV_LHP_dotNetEF.Form2.resources
